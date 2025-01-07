@@ -1,6 +1,6 @@
 # Hi 👋 I'm Hamza
  About Me:
-<br>I am a third-year computer engineering student at Sabanci University with a strong focus on full-stack development. My expertise lies in developing robust, scalable websites and applications, leveraging a deep understanding of both front-end and back-end technologies. I have a profound interest in cloud platforms, especially AWS.Eager to engage with like-minded tech enthusiasts, I look forward to collaborating on projects that push the boundaries of technology.
+<br>I am a forth-year computer engineering student at Sabanci University with a strong focus on full-stack development. My expertise lies in developing robust, scalable websites and applications, leveraging a deep understanding of both front-end and back-end technologies. I have a profound interest in cloud platforms, especially AWS.Eager to engage with like-minded tech enthusiasts, I look forward to collaborating on projects that push the boundaries of technology.
 
 <br>Check out my HackerRank [profile](https://www.hackerrank.com/profile/hamza_wasim)
 
