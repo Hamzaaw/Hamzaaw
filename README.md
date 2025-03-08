@@ -1,6 +1,6 @@
 # Hi 👋 I'm Hamza
  About Me:
-<br>I am a forth-year computer engineering student at Sabanci University with a strong focus on full-stack development. My expertise lies in developing robust, scalable websites and applications, leveraging a deep understanding of both front-end and back-end technologies. I have a profound interest in cloud platforms, especially AWS.Eager to engage with like-minded tech enthusiasts, I look forward to collaborating on projects that push the boundaries of technology.
+<br>I’m a fourth-year Computer Science and Engineering student at Sabanci University, specializing in full-stack development. I build scalable websites and apps, with a strong focus on AWS and cloud platforms. Passionate about tech, I’m eager to collaborate on innovative projects.
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
